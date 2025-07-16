@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Vigneshwaran</h1>
-<h3 align="center">React Native Developer | Former MSW Professional | Offline-First App Specialist</h3>
+<h1 align="center">Welcome to my Github Profile</h1>
+<h2 align="center">Hello, I'm Vigneshwaran</h2>
+<h3 align="center">React Native Developer | 2+ Years Mobile App Experience | Cross-Platform Expert | Expanding into React & Next.js</h3>
 
 ---
 
