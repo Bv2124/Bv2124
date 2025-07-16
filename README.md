@@ -10,7 +10,7 @@
 
 </div>
 
-[![Resume](https://img.shields.io/badge/Download%20Resume-PDF-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)]([./Vigneshwaran_Resume.pdf](https://github.com/Bv2124/Bv2124/blob/main/VIGNESHWARAN_Resume.pdf))
+[![Resume](https://img.shields.io/badge/Download%20Resume-PDF-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)]((https://github.com/Bv2124/Bv2124/blob/main/VIGNESHWARAN_Resume.pdf))
 ---
 
 ### 💡 About Me
