@@ -83,27 +83,45 @@ I believe in continuous learning, clean architecture, and mentoring others throu
 
 ---
 
-### 💬 Connect with Me
+### 🌐 Connect with Me
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/vignesh-waran-18599a2b2" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/Bv2124" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/cedric_lio_ping" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://stackoverflow.com/users/20723809" target="_blank">
-    <img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
-  </a>
-  <a href="https://medium.com/@Cedric" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-  </a>
-  <a href="https://x.com/Dr_nk_rd" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
+<a href="https://www.linkedin.com/in/vignesh-waran-18599a2b2" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/Bv2124" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://instagram.com/cedric_lio_ping" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="https://stackoverflow.com/users/20723809" target="_blank">
+  <img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
+</a>
+<a href="https://medium.com/@Cedric" target="_blank">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+</a>
+<a href="https://x.com/Dr_nk_rd" target="_blank">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+<a href="https://www.behance.net/vigneshwaran" target="_blank">
+  <img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" />
+</a>
+<a href="https://discord.gg/pC79kjvP" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+<a href="https://pinterest.com/vigneshwara1355" target="_blank">
+  <img src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white" />
+</a>
+<a href="https://quora.com/profile/Vignesh-Waran" target="_blank">
+  <img src="https://img.shields.io/badge/Quora-B92B27?style=for-the-badge&logo=quora&logoColor=white" />
+</a>
+<a href="https://reddit.com/user/vigneshwaran2124" target="_blank">
+  <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />
+</a>
+<a href="https://codepen.io/Vicky2124" target="_blank">
+  <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" />
+</a>
+
 </div>
 
 
