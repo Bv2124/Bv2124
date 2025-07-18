@@ -7,16 +7,11 @@
 ### 🚀 React Native Developer  
 🧠 2+ Years of Mobile App Experience  
 🌐 Cross-Platform Expert | Expanding into **React** & **Next.js**
-
-## 📄 Resume
-
 <div align="center">
   <a href="https://raw.githubusercontent.com/Bv2124/Bv2124/main/VIGNESHWARAN_Resume.pdf" download>
     <img src="https://img.shields.io/badge/Download%20Resume-PDF-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume Badge"/>
   </a>
 </div>
-
-
 ---
 
 ### 💡 About Me
