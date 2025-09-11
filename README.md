@@ -5,7 +5,7 @@
 ## I'm **Vigneshwaran**
 
 
-### 🚀 React Native Developer  
+### 🚀 Front End Developer  
 🧠 2+ Years of Mobile App Experience  
 🌐 Cross-Platform Expert | Expanding into **React** & **Next.js**
 <div align="center">
