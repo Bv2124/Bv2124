@@ -1,136 +1,102 @@
-<div align="center">
-
-# 👋 Welcome to my GitHub!
-
-## I'm **Vigneshwaran**
-
-
-### 🚀 Front End Developer  
-🧠 2+ Years of Mobile App Experience  
-🌐 Cross-Platform Expert | Expanding into **React** & **Next.js**
-<div align="center">
-  <a href="https://raw.githubusercontent.com/Bv2124/Bv2124/main/VIGNESHWARAN_Resume.pdf" download>
-    <img src="https://img.shields.io/badge/Download%20Resume-PDF-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume Badge"/>
-  </a>
-</div>
-💡 About Me
-
-🎓 **From Social Impact to Code Impact**  
-Once a passionate social worker, now a mission-driven React Native developer crafting **offline-first mobile experiences** for real-world impact.
-
-💻 **2+ Years of Experience in Mobile App Development**  
-Proactive developer with a focus on **UX, clean code, CI/CD**, and **scalable architecture**. Strong in building apps that perform in **low-connectivity zones** and handle **real-time data** securely.
-
-🔐 **Security & Performance Minded**  
-Encrypted local storage, Proguard protection, custom retry logic, and compression pipelines are part of my toolkit.
-
-🌐 **Lifelong Learner & Open Source Contributor**  
-I believe in continuous learning, clean architecture, and mentoring others through collaboration.
-
----
-
-### 🔧 Tech Stack
-
-<div align="center">
-
-  <img src="https://img.shields.io/badge/React_Native-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Context_API-000000?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/AsyncStorage-20232A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CryptoJS-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-</div>
-
-
----
-
-### 📱 Notable Projects
-
-- **Facility Management App**  
-  Offline-first app used by 2000+ field engineers across the globe. Features include local storage, barcode scanning, media compression, and multilingual support.
-
-- **Reels App (Offline Video Player)**  
-  Personal project that organizes and plays local video files with native folder categorization.
-
-- **Customer Handling App**  
-  Helps streamline field agent tasks like image capture, signature pads, and real-time syncing.
-
-- **Attendance App**  
-  Built with GPS-aware check-in/out and offline QR scan logging.
-
----
-
-### 📈 GitHub Stats
-
+<!-- Header -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bv2124&theme=react&show_icons=true&hide_border=false" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bv2124&theme=react&hide_border=false" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bv2124&layout=compact&theme=react&hide_border=false" alt="Top Languages" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:2F81F7&height=190&section=header&text=Vigneshwaran%20B&fontSize=44&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=Full-Stack%20Engineer%20%C2%B7%20React%20%C2%B7%20Next.js%20%C2%B7%20Node.js%20%C2%B7%20PostgreSQL&descAlignY=58&descSize=16" width="100%" />
 </p>
 
----
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Building+features+end+to+end+%F0%9F%9B%A0%EF%B8%8F;React+%2B+Next.js+on+the+front+%E2%9A%9B%EF%B8%8F;Django%2C+Node+%26+PostgreSQL+behind+it+%F0%9F%97%84%EF%B8%8F;Apps+that+work+even+offline+%F0%9F%93%B6;Open+to+full-stack+roles+in+Bengaluru+%F0%9F%9A%80" alt="Typing intro" />
+</p>
 
-### 🌐 Connect with Me
+<p align="center">
+  <a href="https://bv2124.vercel.app"><img src="https://img.shields.io/badge/🌐_Portfolio-bv2124.vercel.app-0F172A?style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/vignesh-waran-18599a2b2"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:bv2124.dev@gmail.com"><img src="https://img.shields.io/badge/📬_Email-Say_hi-EA4335?style=for-the-badge" /></a>
+  <a href="https://raw.githubusercontent.com/Bv2124/Bv2124/main/Vigneshwaran_Resume.pdf"><img src="https://img.shields.io/badge/📄_Resume-Download-16A34A?style=for-the-badge" /></a>
+</p>
 
-<a href="https://www.linkedin.com/in/vignesh-waran-18599a2b2" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/Bv2124" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://instagram.com/cedric_lio_ping" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="https://stackoverflow.com/users/20723809" target="_blank">
-  <img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
-</a>
-<a href="https://medium.com/@Cedric" target="_blank">
-  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-</a>
-<a href="https://x.com/Dr_nk_rd" target="_blank">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
-</a>
-<a href="https://www.behance.net/vigneshwaran" target="_blank">
-  <img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" />
-</a>
-<a href="https://discord.gg/pC79kjvP" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
-</a>
-<a href="https://pinterest.com/vigneshwara1355" target="_blank">
-  <img src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white" />
-</a>
-<a href="https://quora.com/profile/Vignesh-Waran" target="_blank">
-  <img src="https://img.shields.io/badge/Quora-B92B27?style=for-the-badge&logo=quora&logoColor=white" />
-</a>
-<a href="https://reddit.com/user/vigneshwaran2124" target="_blank">
-  <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />
-</a>
-<a href="https://codepen.io/Vicky2124" target="_blank">
-  <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" />
-</a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Bv2124&label=Profile%20views&color=2F81F7&style=flat-square" alt="Profile views" />
+</p>
 
-</div>
+<br/>
 
+## 👋 Hey, I'm Vignesh
 
----
+For the past three years I've been writing software that real people depend on at work. It started with React Native apps for field technicians who often had no signal 📱. Today I'm a full-stack developer at **Intergy Consulting** 🇦🇺, working on a live care-sector platform that matches support workers to clients for **50+ organizations** and **2,000+ users**.
 
-### 📜 Quote of the Day
+My favourite kind of work is taking ownership of something from start to finish: I talk through the requirement, write the code, test it, ship it, and then stick around to fix whatever breaks in production 🔧.
 
-> ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<br/>
 
----
+## 🔭 What I'm doing now
 
-<!-- Inspired by GPRM & crafted with ❤️ by Vigneshwaran -->
+- ⚛️ Building **React** and **Next.js** features, along with the **Django** and **PostgreSQL** services behind them
+- 🔌 Replacing older third-party pieces with clean, in-house **REST APIs**
+- 🎭 Learning more about backend architecture and end-to-end testing with **Playwright**
+- 🎓 Completing my **MCA** at Bharathiar University, part-time
+- 📍 Based in **Coimbatore**, and ready to move to **Bengaluru** for on-site work
+
+<br/>
+
+## 🏆 A few things I'm proud of
+
+> 🧯 **I took over a production codebase after a one-month handover.**<br/>
+> I triaged and fixed more than **150 incidents**, sorted by priority, and shipped hotfixes through GitHub Actions while the platform stayed live.
+
+> 🗄️ **I moved 14,000 records into production with zero data loss.**<br/>
+> I wrote a dry-run comparison script and added five validation stages so that duplicates never got through. Running it was uneventful, which is exactly the goal with a migration.
+
+> 🔓 **I removed the platform's dependency on Salesforce.**<br/>
+> I redesigned the core validation logic and APIs from scratch, so live operations now run fully on our own Django and PostgreSQL stack.
+
+> 📶 **I made apps work where the network doesn't.**<br/>
+> I built an offline-first sync system using SQLite, AsyncStorage, and retry queues with backoff. It took sync success in low-connectivity areas from about **30% to about 80%**.
+
+> ⚡ **I made a slow workflow fast.**<br/>
+> By tuning PostgreSQL queries and API logic, I turned a long-loading service-creation process into one that finishes in **seconds**.
+
+<br/>
+
+## 🚀 Side projects
+
+| | Project | What it is | Stack |
+|:-:|:--|:--|:--|
+| 📚 | **Vaasi** | An online bookstore where you can buy a single book or a curated collection | Next.js · Django · PostgreSQL |
+| 🏥 | **Akam Psychiatric Care Center** | A site the admin updates entirely from a Google Sheet, with no code changes needed | Next.js · Sheets API |
+| 🎁 | **Computer Park** | A business site for a gifting and printing company, designed to grow into a store | Next.js · Vercel |
+
+<br/>
+
+## 🧰 Tools I reach for
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind,nodejs,express&perline=8" /><br/>
+  <img src="https://skillicons.dev/icons?i=django,python,postgres,mysql,sqlite,firebase,azure,githubactions&perline=8" /><br/>
+  <img src="https://skillicons.dev/icons?i=vercel,git,github,postman,androidstudio,figma&perline=6" />
+</p>
+
+<p align="center"><sub>📱 React Native · 🧩 Strapi · ☁️ Salesforce integration · 🎭 Playwright · 🧪 Pytest · 🤖 Claude Code</sub></p>
+
+<br/>
+
+## 📈 My GitHub, live
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bv2124&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0F172A&title_color=2F81F7&icon_color=2F81F7" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bv2124&layout=compact&hide_border=true&theme=tokyonight&bg_color=0F172A&title_color=2F81F7" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bv2124&bg_color=0F172A&color=2F81F7&line=2F81F7&point=FFFFFF&area=true&area_color=1E3A8A&hide_border=true&radius=8" width="95%" />
+</p>
+
+<br/>
+
+<p align="center">
+  💬 If you're hiring for a full-stack role, or just want to talk about clean APIs or offline-first apps, my inbox is open.
+</p>
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F81F7,50:1E3A8A,100:0F172A&height=110&section=footer&animation=twinkling" width="100%" />
+</p>
